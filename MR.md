@@ -20,6 +20,7 @@
 | ACDC | [2017](https://www.creatis.insa-lyon.fr/Challenge/acdc/organizers.html) | True | heart |
 | ENIGMA | [2017](https://my.vanderbilt.edu/enigmacerebellum/) | None | brain |
 | ISEG2017 | [2017](http://iseg2017.web.unc.edu/) | True | brain |
+| mTOP | [2016](https://www.smir.ch/MTOP/Start2016) | True | brain |
 | Multiple Sclerosis Segmentation | [2016](https://portal.fli-iam.irisa.fr/msseg-challenge/overview) | True | multi |
 | Kaggle: Second Annual Data Science Bowl | [2016](https://www.kaggle.com/c/second-annual-data-science-bowl/data) | True | heart |
 | Statistical Atlases and Computational Modelling of the Heart | [2016](http://www.doc.ic.ac.uk/~rkarim/la_lv_framework/wall/datasets.html) | None | heart |
@@ -29,5 +30,7 @@
 | IVDM3Seg | [2015](https://ivdm3seg.weebly.com/data.html) | True | spine |
 | THE 2015 LONGITUDINAL MS LESION SEGMENTATION CHALLENGE | [2015](https://smart-stats-tools.org/lesion-challenge) | True | brain |
 | MRBrains | [2013](https://mrbrains13.isi.uu.nl/downloads/) | True | brain |
+| NeoBrainS 12 | [2012](https://neobrains12.isi.uu.nl) | True | brain |
 | PROMISE12 | [2012](https://promise12.grand-challenge.org/Home/) | None | prostate |
 | Motion Tracking Challenge – STACOM 2011 | [2011](http://stacom.cardiacatlas.org/motion-tracking-challenge/) | True | heart |
+| SKI10 | [2010](http://www.ski10.org) | True | knee |
